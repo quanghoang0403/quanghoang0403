@@ -12,10 +12,10 @@
 - Language: **`C#`** **`Javascript`** **`Python`**
 - Frontend: **`HTML5`** **`SCSS`** **`JQuery`** **`Ajax`** **`ReactJS`** 
 - Backend: **`ASP.Net MVC`** **`ASP.Net Core`** **`WebAPI`**
-- Database: **`SQL`** **`ElasticSearch`** 
+- Database: **`SQL`** 
 - Tool: **`Git`** **`SourceTree`** **`Wireshark`** **`Postman`** **`Docker`** **`Swagger`**
 - Editor: **`Visual Code`** **`Visual Studio`** **`Pycharm`**
-- Others: **`Session`** **`Cookie`** **`Cache`** **`RestAPI`**
+- Others: **`Ocelot`** **`Cookie`** **`Cache`** **`RestAPI`**
 
 
 ### 📕 Read my blogs
